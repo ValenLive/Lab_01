@@ -1,0 +1,10 @@
+150.5,SeaDragon,200
+120.8,StarCruiser,150
+85.2,OceanExplorer,120
+200.0,SolarSailor,250
+300.3,MoonWalker,180
+180.6,SunSeeker,220
+90.7,StormRider,130
+250.0,CelestialVoyager,300
+160.4,AquaticDream,170
+135.9,SkySprinter,190
